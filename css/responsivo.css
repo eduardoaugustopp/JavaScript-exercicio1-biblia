@@ -1,0 +1,13 @@
+@media screen and (max-width: 768px) {
+
+            .teclado {
+                width: 80vw;
+            }
+
+            .tecla {
+                width: 55vw; 
+                font-size: 1em;
+            }
+
+
+}
