@@ -3,6 +3,10 @@
 <h2>�� Sobre</h2>
 <p>Página criada para praticar o Curso JavaScript para Web: Crie páginas dinâmicas.</p>
 
+## Acesse
+
+<a href = "https://projeto-biblia.vercel.app/">Acesse clicando aqui</a>
+
 <h2>��Formação Desenvolva aplicações Web com JavaScript / ALURA</h2>
 <p>
 -Identificar os papéis de cada tecnologia da Web para construção de páginas<br>
