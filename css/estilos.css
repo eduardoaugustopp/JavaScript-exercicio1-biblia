@@ -58,6 +58,17 @@ body {
   box-shadow: 3px 3px 0 #FFD700 inset, 1px 1px 80px var(--luz);
 }
 
+.rodape {
+  text-align: center;
+  
+}
 
+.rodape__texto {
+  font-size: 14px;
+  text-align: center;
+  color: rgb(218, 218, 218);
+  padding: 0.5em 19em;
+
+}
 
                                                                                             

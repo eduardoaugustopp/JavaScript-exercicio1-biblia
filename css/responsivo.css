@@ -1,13 +1,13 @@
 @media screen and (max-width: 768px) {
-
-            .teclado {
-                width: 80vw;
-            }
-
-            .tecla {
-                width: 55vw; 
-                font-size: 1em;
-            }
-
-
+  .teclado {
+    width: 80vw;
+  }
+  .tecla {
+    width: 55vw;
+    font-size: 1em;
+  }
+  .rodape__texto {
+    display: block;
+    padding: 0.3em 2em;
+}
 }
